@@ -12,6 +12,7 @@ from openerp.addons.saas_utils import connector
 
 import werkzeug.utils
 import simplejson
+import functools
 
 
 import logging
